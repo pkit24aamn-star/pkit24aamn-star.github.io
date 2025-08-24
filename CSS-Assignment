@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet"href="css/abc.ss">
+
+    <title>Document</title>
+    <style>
+         * {color: lavender; 
+        }
+        
+        p{color:red;
+        }
+        #green{
+            color: green; 
+        }
+        .yellow {
+              color: yellow;
+        }
+        .orchid {
+            color: orchid;
+        }
+       
+    </style>
+</head>
+<body>
+    <h1 style="color: rgb(130, 6, 212)">CSS Practice</h1>
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br>
+    In incidunt inventore obcaecati ratione quisquam voluptate vitae culpa labore hic,<br>
+    accusamus nisi aperiam doloribus repellat tempore id, iste repudiandae animi sequi.
+    </p>
+    <p>
+       Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello.<br> 
+       Founded in 1939 by Enzo Ferrari (1898–1988), the company built its first car in 1940,<br>
+        adopted its current name in 1945, and began to produce its current line of road cars in 1947. <br>
+        Ferrari became a public company in 1960, and from 1963 to 2014 it was a subsidiary of Fiat S.p.A. 
+    </p>
+    <p id="green" class="yellow">
+        another paragraph
+    </p>
+    <p class="yellow ">
+        again another one 
+    </p>
+    <p class="orchid">
+        one more paragraph 
+    </p>
+</body>
+</html>

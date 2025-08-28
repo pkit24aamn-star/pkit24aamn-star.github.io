@@ -1,0 +1,18 @@
+     h1 {           
+            text-decoration: green dashed overline ;  
+        }
+        ul{
+            color: rgb(187, 23, 252);
+        }
+         
+        li{
+            color : rgb(4, 109, 4); 
+        }
+        body {
+            
+            color: magenta;
+            font-family: "Nepali" ,"Arial";
+        }
+        * {
+            color:rgb(134, 80, 185);
+        }
